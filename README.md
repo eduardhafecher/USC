@@ -25,6 +25,8 @@ Esses foram os pontos do código do professor Guanabara que adaptei:
 
 ✅ Adicionei a participação dos nossos professores ao jogo. Eles assumem uma posição de “elemento surpresa”, podendo fazer a pontuação do jogador aumentar ou fazer o jogador ter que recomeçar o código.
 
+Essa é minha primeira tentativa de código em Java. Comentários e sugestões são muito bem-vindos! ❤️
+
 *Assista a Playlist aqui: @gustavoguanabara
 https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY
 
