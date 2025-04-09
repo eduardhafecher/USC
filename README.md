@@ -1,6 +1,9 @@
 # UltraSerratecCombat [USC] 
 Um projeto de minigame em Java / Turma 2025.01 / Fullstack / Serratec
 
+<img src="https://files.fm/u/w3t4chw64v" alt="USC_banner">
+
+
 Esse jogo é uma adaptação do código que o professor Gustavo Guanabara usa como exemplo nas aulas 7a, 7b, 8a e 8b em seu curso gratuito de POO + Java disponível no youtube*. No exemplo  o professor monta passo a passo uma espécie de duelo no estilo UFC. Minha ideia foi transformar essa “batalha” em um Duelo entre os Alunos de Programação do Serratec. 
 
 No UltraSerratecCombat, vence aquele que consegue montar seu código primeiro. A cada rodada, um número aleatório é sorteado pelo programa, e cada número corresponde a uma pontuação que o aluno vai acumulando. Os pontos levam nomes de assuntos que os alunos já aprenderam (nas disciplinas de Lógica de Programação, Banco de Dados e POO). O aluno que alcançar os 100 pontos conclui o código e vence o game.
