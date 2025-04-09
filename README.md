@@ -11,7 +11,7 @@ Esses foram os pontos do código do professor Guanabara que adaptei:
 
 ✅ As classes Lutador e Luta viraram Aluno e Duelo, respectivamente.
 
-✅ Alterei os atributos do Aluno, já que peso, altura e nacionalidade não são relevantes em um contexto de duelo de alunos.
+✅ Alterei os atributos do Aluno, já que peso, altura e nacionalidade não são relevantes em um contexto de duelo de alunos. 
 
 ✅ No código do professor, o peso e a categoria do lutador são atributos conectados. A partir do peso, o programa determina a categoria automaticamente, usando um if. Eu mantive a ideia, trocando os atributos: a experiência do Aluno determina seu nível.
 
@@ -23,10 +23,11 @@ Esses foram os pontos do código do professor Guanabara que adaptei:
 
 ✅ Adicionei uma abertura para o duelo, usando uma imagem ASCII.
 
-✅ Adicionei a participação dos nossos professores ao jogo. Eles assumem uma posição de “elemento surpresa”, podendo fazer a pontuação do jogador aumentar ou fazer o jogador ter que recomeçar o código.
+✅ Adicionei a participação dos nossos professores ao jogo. Eles assumem uma posição de “elemento surpresa”, podendo fazer a pontuação do jogador aumentar ou fazer o jogador ter que recomeçar o código porque tudo que é bom pode ficar melhor! rs
 
-Essa é minha primeira tentativa de código em Java. Comentários e sugestões são muito bem-vindos! ❤️
+P.S. 1️⃣: Essa é minha primeira tentativa de código em Java. Comentários e sugestões são muito bem-vindos! ❤️
+P.S. 2️⃣: Roube esse código! Personalize como desejar! 🖥️
 
-*Assista a Playlist aqui: @gustavoguanabara
+*Assista a Playlist POO + Java do @gustavoguanabara aqui:
 https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY
 
